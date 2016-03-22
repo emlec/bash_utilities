@@ -38,7 +38,7 @@ else echo "No split"
 fi 
 echo "END"
 
-gzip *.fasta
+gzip *.fasta # TODO check
 
 
 
